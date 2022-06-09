@@ -1,0 +1,1 @@
+When running locally with yarn dev -o it works (says development).
