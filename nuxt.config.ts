@@ -12,11 +12,5 @@ export default defineNuxtConfig({
     public: {
       ENV: process.env.ENV
     }
-  },
-
-  css: [
-    "primevue/resources/themes/md-light-indigo/theme.css",
-    "primevue/resources/primevue.css",
-    "primeicons/primeicons.css"
-  ]
+  }
 });

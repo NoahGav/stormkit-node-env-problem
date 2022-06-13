@@ -7,8 +7,6 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.3",
-    "primevue": "^3.13.1",
-    "primeicons": "^5.0.0"
+    "nuxt": "3.0.0-rc.3"
   }
 }
