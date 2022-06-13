@@ -5,7 +5,23 @@
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true,
-    "**/Thumbs.db": true
+    "**/Thumbs.db": true,
+    ".vscode": true,
+    ".nuxt": true,
+    "node_modules": true,
+    ".gitignore": true,
+    "README.md": true,
+    "tsconfig.json": true,
+    "yarn.lock": true
   },
-  "hide-files.files": []
+  "hide-files.files": [
+    ".vscode",
+    ".nuxt",
+    "node_modules",
+    ".gitignore",
+    "README.md",
+    "tsconfig.json",
+    "yarn.lock"
+  ],
+  "vue3snippets.enable-compile-vue-file-on-did-save-code": true
 }
